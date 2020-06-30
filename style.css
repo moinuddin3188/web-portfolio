@@ -44,6 +44,9 @@ h1 {
     border-radius: 5px;
     height: 300px;
 }
+.single-experience h3{
+    font-size: 16px;
+}
 .experience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
